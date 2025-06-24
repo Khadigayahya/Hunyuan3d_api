@@ -35,4 +35,4 @@ huggingface_hub==0.19.4
 
 # --- Hunyuan3D generator ---
 # Replace with actual repo URL if not on PyPI
-git+https://github.com/tencentarc/Hunyuan3D.git
+https://github.com/Tencent-Hunyuan/Hunyuan3D-2
