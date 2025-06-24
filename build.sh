@@ -277,4 +277,5 @@ main() {
     log_info "API documentation: http://localhost:8080/docs"
 }
 
-#
+# Run main function
+main "$@"
